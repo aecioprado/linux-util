@@ -13,3 +13,5 @@ chmod [owner, group, others] filename
 https://www.geeksforgeeks.org/processes-in-linuxunix/
 
 https://shapeshed.com/unix-wget/
+
+https://allthings.how/what-does-mean-in-linux/
