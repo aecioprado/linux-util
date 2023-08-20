@@ -1,0 +1,11 @@
+ls (list)
+
+alias c='clear'
+alias g='git'
+alias glog='git log --oneline'
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+alias ld='ls -d */ -ll'
+alias projetos='~/Projetos'
+

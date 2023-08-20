@@ -1,0 +1,17 @@
+utilitários
+==================
+
+* cliente torrent
+sudo apt install qbittorrent
+
+
+informacao do hardward
+===================
+sudo apt-get install hardinfo
+
+
+arquivos iso
+==================
+downloads
+
+https://ubuntu.com/download/server#downloads
